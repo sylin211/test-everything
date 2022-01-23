@@ -1,0 +1,7 @@
+﻿  main.c
+  test-mutex.c
+  Generating Code...
+  test-mutex.h
+Debug\test-mutex.obj : warning LNK4042: object specified more than once; extras ignored
+main.obj : error LNK2019: unresolved external symbol _write_num_to_queue_multi_thread referenced in function _main
+D:\Work\Projects\test-everything\Debug\test-glib.exe : fatal error LNK1120: 1 unresolved externals
